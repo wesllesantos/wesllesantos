@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Weslley 
 - 💻 future developer Front-end
-- 📚 2/3 Técnico em informática 
+- 📚 3/3 Técnico em informática 
 - 📚 1/5 Análise e Des. de sistemas 
 
 <div>
