@@ -14,7 +14,9 @@
   <img align="center" alt="Wes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wes-CS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
     <img align="center" alt="Wes-php" height="65" width="53" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> 
+    <img align="center" alt="Wes-python" height="50" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />     
 </div>
   
   ##
